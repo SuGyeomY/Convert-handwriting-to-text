@@ -1,6 +1,6 @@
 # Extracting license plate content with OpenCV
 ---
--Our program extracts and displays letters and numbers on overseas license plates.
+-Our program extracts and displays letters and numbers on overseas license plates.<br>
 -Who participated: 양수겸, 서우석, 지승민, 이현우
 
 **Packages Used**
@@ -29,5 +29,5 @@ cv2, pytesseract, num py (need install)
 **Reference**
 ---
 Text detection by python : 
-<https://hemon.tistory.com/75>
+<https://hemon.tistory.com/75> <br>
 <https://yunwoong.tistory.com/75>
