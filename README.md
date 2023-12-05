@@ -1,10 +1,17 @@
-#Convert handwriting to text with OpenCV
+# Extracting license plate content with OpenCV
 ---
--Our program recognizes handwriting in image files, converts it into a text file, and outputs it.
--It also shows the color of the handwriting!
+-Our program extracts and displays letters and numbers on overseas license plates.
+-Who participated: 양수겸, 서우석, 지승민, 이현우
 
-#Key Points
+**Packages Used**
 ---
+cv2, pytesseract, num py (need install)
 
-#Results:
+**How to execute**
+-Drag the desired part of the image file and extract the letters and numbers of that part.
+
+**Results**
 ---
+*Results may not be accurate depending on the state of the image file.
+![Not Found](https://example.com/image.jpg)
+![Not Found](https://example.com/image.jpg)
