@@ -8,7 +8,12 @@
 cv2, pytesseract, num py (need install)
 
 **How to execute**
--Drag the desired part of the image file and extract the letters and numbers of that part.
+---
+1. Enter the address by selecting the desired license plate image
+2. Drag the desired part of the image file and extract the letters and numbers of that part.
+3. The borders of the letters are recognized
+4. Convert boundies of the letters to text
+5. Check the car's affiliation or number on the license plate and boundaries of the letters
 
 **Results**
 ---
@@ -21,3 +26,8 @@ cv2, pytesseract, num py (need install)
 ![car plate img3](https://github.com/SuGyeomY/Convert-handwriting-to-text/blob/main/Result_image/3.png?raw=true)
 ![car plate r3](https://github.com/SuGyeomY/Convert-handwriting-to-text/blob/main/Result_image/3-1.png?raw=true)
 
+**Reference**
+---
+Text detection by python : 
+<https://hemon.tistory.com/75>
+<https://yunwoong.tistory.com/75>
