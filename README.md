@@ -14,4 +14,4 @@ cv2, pytesseract, num py (need install)
 ---
 *Results may not be accurate depending on the state of the image file.
 ![car plate img](http://dcplates.com/assets/GovUS15a.jpg)
-![Not Found](https://example.com/image.jpg)
+![Not Found](1.1.png)
