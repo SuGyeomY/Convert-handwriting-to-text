@@ -13,9 +13,9 @@ cv2, pytesseract, num py (need install)
 **Results**
 ---
 *Results may not be accurate depending on the state of the image file.
-![car plate img1](https://ibb.co/XXGqn3v)
-![car plate r1](https://ibb.co/t3jrtVM)
-![car plate img2](https://ibb.co/K7x8wf1)
-![car plate r2](https://ibb.co/sFsrXyv)
-![car plate img3](https://ibb.co/S5QNskp)
-![car plate r3](https://ibb.co/H7RxsYs)
+![car plate img1](https://github.com/SuGyeomY/Convert-handwriting-to-text/blob/main/Result_image/1.png?raw=true)
+![car plate r1](https://github.com/SuGyeomY/Convert-handwriting-to-text/blob/main/Result_image/1-1.png?raw=true)
+![car plate img2](https://github.com/SuGyeomY/Convert-handwriting-to-text/blob/main/Result_image/2.png?raw=true)
+![car plate r2](https://github.com/SuGyeomY/Convert-handwriting-to-text/blob/main/Result_image/2-2.png?raw=true)
+![car plate img3](https://github.com/SuGyeomY/Convert-handwriting-to-text/blob/main/Result_image/3.png?raw=true)
+![car plate r3](https://github.com/SuGyeomY/Convert-handwriting-to-text/blob/main/Result_image/3-1.png?raw=true)
