@@ -1,7 +1,7 @@
 # Extracting license plate content with OpenCV
 ---
 -Our program extracts and displays letters and numbers on overseas license plates.<br>
--Who participated: 양수겸, 서우석, 지승민, 이현우
+-Who participated: 양수겸, 서우석, 황승민, 이현우
 
 **Packages Used**
 ---
