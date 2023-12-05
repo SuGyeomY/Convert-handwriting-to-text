@@ -13,5 +13,11 @@ cv2, pytesseract, num py (need install)
 **Results**
 ---
 *Results may not be accurate depending on the state of the image file.
-![car plate img](http://dcplates.com/assets/GovUS15a.jpg)
-![Not Found](1.1.png)
+
+![car plate img1](https://github.com/SuGyeomY/Convert-handwriting-to-text/blob/main/Result_image/1.png?raw=true)
+![car plate r1](https://github.com/SuGyeomY/Convert-handwriting-to-text/blob/main/Result_image/1-1.png?raw=true)
+![car plate img2](https://github.com/SuGyeomY/Convert-handwriting-to-text/blob/main/Result_image/2.png?raw=true)
+![car plate r2](https://github.com/SuGyeomY/Convert-handwriting-to-text/blob/main/Result_image/2-2.png?raw=true)
+![car plate img3](https://github.com/SuGyeomY/Convert-handwriting-to-text/blob/main/Result_image/3.png?raw=true)
+![car plate r3](https://github.com/SuGyeomY/Convert-handwriting-to-text/blob/main/Result_image/3-1.png?raw=true)
+
