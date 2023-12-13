@@ -30,4 +30,3 @@ cv2, pytesseract, num py (need install)
 ---
 Text detection by python : 
 <https://hemon.tistory.com/75>
-<https://yunwoong.tistory.com/75>
